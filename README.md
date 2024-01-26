@@ -1,0 +1,3 @@
+Through the fbref, I have crafted a Heat Possession Map for the Premier League season 2023/2024. This map divides the pitch into five distinct levels. Users have the option to select a team and observe the touches on each of these five levels. The color scheme of the map represents the frequency of player touches, where the green hues signify fewer touches on average, while the redder tones indicate a higher number of touches.
+
+Beneath the name of each team, the possession percentage is also provided, offering a comprehensive insight into the team's performance on the field. The data is routinely updated after each matchday, ensuring real-time accuracy and relevance, sourced directly from the fb ref platform.
